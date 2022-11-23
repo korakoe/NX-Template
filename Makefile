@@ -67,7 +67,7 @@ LIBS	:= -lpu -lfreetype -lSDL2_mixer -lopusfile -lopus -lmodplug -lmpg123 -lvorb
 #---------------------------------------------------------------------------------
 
 # IMPORTANT! Change "$(CURDIR)/../Plutonium" to the path in which you have Plutonium
-LIBDIRS	:= $(PORTLIBS) $(LIBNX) $(CURDIR)/
+LIBDIRS	:= $(PORTLIBS) $(LIBNX) $(CURDIR)/Plutonium
 
 
 #---------------------------------------------------------------------------------
